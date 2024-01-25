@@ -18,4 +18,3 @@ print(host_name) # 'github.com'
 
 output = protocol + '://' + host_name + '/' + file_name
 print(output)
-
