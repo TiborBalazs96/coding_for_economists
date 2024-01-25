@@ -72,4 +72,13 @@ print(2==2 and 3==4)
 #or
 print(2==2 or 3==4)
 
+#testing for inquality
+
+print(2!=3) 
+
+print(2<3) #true
+print(2>3) #false
+
+
+
 
