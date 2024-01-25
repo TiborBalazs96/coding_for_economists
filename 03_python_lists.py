@@ -8,6 +8,7 @@ print(type(myList))
 #How many objects are there in our lists
 print(f'There are {len(myList)} objects in our list')
 
+#Update
 #Nice thing about lists: they are flexible with respect to the objects they contain
 mixedList=[1, 'two', 3.0, True]
 print(mixedList)
@@ -26,4 +27,3 @@ print(mixedList.count(1))
 
 #reverse a list
 print(mixedList.reverse())
-
