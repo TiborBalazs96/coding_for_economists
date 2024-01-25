@@ -1,3 +1,4 @@
+#Update
 #Looking at loop syntax
 
 #for loops operate on iterables
@@ -17,7 +18,7 @@ for banana in myList:
   print(banana)
   else:
   print("Item note equal to 1.")
-  
+
 #Looping over a range of values
 for i in range(5): #range generates values on the fly
   print(i)
@@ -26,7 +27,6 @@ for i in range(5): #range generates values on the fly
 range_vals = [0,1,2,3,4,5]
 for i in range_vals:
   print(i)
-  
+
 #Looping over a range of values with a step
 
-  
